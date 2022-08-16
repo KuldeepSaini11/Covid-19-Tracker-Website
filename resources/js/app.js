@@ -178,7 +178,7 @@ function axesLinearChart() {
   });
 }
 
-// FORMAT DATES
+//    FORMAT DATES
 const monthsNames = [
   "Jan",
   "Feb",
